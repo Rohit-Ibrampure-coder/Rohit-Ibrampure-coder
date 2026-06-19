@@ -10,7 +10,7 @@
 
 ---
 
-## Skills
+## Technical Skills
 
 - Python
 - Flask
@@ -20,6 +20,16 @@
 - HTML
 - CSS
 - Git & GitHub
+
+## Soft Skills
+
+- Communication
+- Problem Solving
+- Quick Learning
+- Analytical Thinking
+- Time Management
+- Adaptability
+- Self-Learning
 
 ---
 

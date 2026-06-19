@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Rohit Ibrampure 👋
 
-<!--
-**Rohit-Ibrampure-coder/Rohit-Ibrampure-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Python & Flask Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ MySQL Database Enthusiast
+
+🚀 Building Real-World Web Applications
+
+---
+
+## Skills
+
+- Python
+- Flask
+- MySQL
+- SQLAlchemy
+- Bootstrap 5
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## Projects
+
+### Student Management System
+
+Role-Based Student Management System built using:
+
+- Flask
+- MySQL
+- SQLAlchemy
+- Flask-Login
+- Bootstrap 5
+
+Features:
+
+- Authentication
+- Student Management
+- Attendance Management
+- Marks Management
+- Report Cards
+- Student Portal
+
+---
+
+## Connect With Me
+
+📧 Email: ibrampurerohit043@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/rohit-ibrampure
+
+🐙 GitHub:
+https://github.com/Rohit-Ibrampure-coder

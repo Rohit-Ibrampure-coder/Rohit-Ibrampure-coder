@@ -8,6 +8,8 @@
 
 🚀 Building Real-World Web Applications
 
+🎯 Seeking Internship Opportunities in Python Development, Web Development, and Data Analysis.
+
 ---
 
 ## Technical Skills
@@ -21,6 +23,8 @@
 - CSS
 - Git & GitHub
 
+---
+
 ## Soft Skills
 
 - Communication
@@ -30,6 +34,15 @@
 - Time Management
 - Adaptability
 - Self-Learning
+
+---
+
+## Currently Learning
+
+- Power BI
+- Data Analysis
+- Advanced Flask
+- REST APIs
 
 ---
 
